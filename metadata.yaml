@@ -1,0 +1,35 @@
+_repo: The-Bakhtyar-Nama-A-Persian-Romance_60316
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ouseley, William
+    birthdate: 1767
+    deathdate: 1842
+    gutenberg_agent_id: '50893'
+    url: http://www.gutenberg.org/2009/agents/50893
+    wikipedia: https://en.wikipedia.org/wiki/William_Ouseley
+creator:
+  editor:
+    agent_name: Clouston, W. A. (William Alexander)
+    alias: Clouston, William Alexander
+    birthdate: 1843
+    deathdate: 1896
+    gutenberg_agent_id: '4784'
+    url: http://www.gutenberg.org/2009/agents/4784
+    wikipedia: http://en.wikipedia.org/wiki/William_Alexander_Clouston
+description: ''
+gutenberg_issued: '2019-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60316'
+  lccn: '35029568'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Persian poetry -- Translations into English'
+- !lcc 'PK'
+- GITenberg
+title: 'The Bakhtyār Nāma: A Persian Romance'
+url: http://www.gutenberg.org/ebooks/60316
